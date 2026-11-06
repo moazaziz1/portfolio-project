@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 40px;
+}
+
+h1 {
+    color: #253858;
+}
+
+nav a {
+    margin-right: 15px;
+}
