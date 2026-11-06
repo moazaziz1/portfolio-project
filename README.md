@@ -80,9 +80,7 @@
 
 # 
 
-# \## Realease v1.0
-
-# 
+# \## Release v1.0
 
 # Version 1.0 includes the main portfolio pages, navigation menu, and personal blog.
 
